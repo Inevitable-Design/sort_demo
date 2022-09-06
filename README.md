@@ -1,6 +1,6 @@
 # sort_demo
 
-Ekansh\n
-E21CSEU0066\n
-EB06\n
+Ekansh
+E21CSEU0066
+EB06
 https://github.com/Inevitable-Design/sort_demo
