@@ -22,7 +22,7 @@ void printArray(int arr[], int n)
 		cout << arr[i] << " ";
 	cout << endl;
 }
-int main()
+int newsort()
 {
 	int arr[] = { 12, 11, 13, 5, 6 };
 	int N = sizeof(arr) / sizeof(arr[0]);
